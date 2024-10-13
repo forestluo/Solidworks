@@ -2,6 +2,10 @@
 
  三维实体造型数据。包括例子以及测试小车的组装结构数据。
 
+<div align=center>
+<img src="https://github.com/forestluo/Solidworks/blob/main/vehicleframe.png">
+</div>
+
 ---
 
 给作者捐赠：
